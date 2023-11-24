@@ -1,6 +1,6 @@
 [rewrite_local]
 
-^https?://yqsb\\.qau\\.edu\\.cn/index\\.php/index/osideentry/check url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/13app.js
+^https?://yqsb\\.qau\\.edu\\.cn/index\\.php/index/osideentry/check url script-response-body https://raw.githubusercontent.com/LuxuryLee99/OwnJS/main/CYND.js
 
 [mitm]
 
